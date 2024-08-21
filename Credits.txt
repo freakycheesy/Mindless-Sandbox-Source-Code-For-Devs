@@ -1,0 +1,23 @@
+Credits:
+
+UI Sprites and Sounds:
+
+- Kenney.nl
+
+Radio Music:
+
+- UFO by KV https://youtube.com/c/KVmusicprod Creative Commons — Attribution 3.0 Unported — CC BY 3.0 Free Download / Stream: https://bit.ly/3rn76SA Music promoted by Audio Library https://www.youtube.com/watch?v=o9lTIv42oXw&t=0s
+
+Title Screen Music:
+
+- "Unity" Kevin MacLeod (incompetech.com)
+
+Deathmatch Music:
+
+- "Video Dungeon Boss" Kevin MacLeod (incompetech.com)
+
+- "The Way Out" Kevin MacLeod (incompetech.com)
+
+
+
+Licensed under Creative Commons: By Attribution 4.0 License http://creativecommons.org/licenses/by/4.0/
