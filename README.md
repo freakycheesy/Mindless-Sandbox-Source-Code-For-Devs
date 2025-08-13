@@ -1,5 +1,5 @@
 # Mindless Sandbox Source Code For Devs
- - Game Link: https://pietrosprudente.itch.io/mindless-sandbox
+ - Game Link: https://freakycheesy.itch.io/mindless-sandbox
  - This game is no longer being worked on so here is the source code
  - IMPORTANT:
  - - Some Assets in the unity project are placeholders like audio, textures and, etc!
